@@ -18,3 +18,24 @@ Building scalable software and intelligent products that solve real-world proble
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Machine+Learning;Full+Stack+Developer;Building+Voltix+ERP;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
+<br>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+Passionate about building scalable software, AI-powered applications and modern full-stack products.
+</p>
+
+<div align="center">
+
+| 🎓 Education | 💻 Focus |
+|:------------:|:--------:|
+| **B.Tech Electrical Engineering**<br>NIT Jalandhar | **Software Engineering**<br>Full Stack Development<br>AI & Machine Learning |
+
+| 🚀 Currently Building | 🎯 Career Goal |
+|:---------------------:|:--------------:|
+| **Relect ERP**<br>Personal Portfolio<br>Open Source Projects | **Software Engineer**<br>Scalable Systems<br>AI-powered Products |
+
+</div>
+
+---
