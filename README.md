@@ -104,7 +104,7 @@ Technologies, frameworks and tools I use to build scalable software, AI solution
 &nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 
 </div>
