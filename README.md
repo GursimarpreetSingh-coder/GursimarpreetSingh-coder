@@ -39,3 +39,74 @@ Passionate about building scalable software, AI-powered applications and modern 
 </div>
 
 ---
+<br>
+
+<h2 align="center">⚡ Tech Stack & Tools</h2>
+
+<p align="center">
+Technologies, frameworks and tools I use to build scalable software, AI solutions and modern applications.
+</p>
+
+<br>
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css&theme=dark" />
+</p>
+
+---
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
+</p>
+
+---
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,mongodb&theme=dark" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
+
+---
+
+### ☁️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,vercel&theme=dark" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</p>
+
+</div>
+
+---
