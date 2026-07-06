@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/banner.png" alt="Banner" width="100%">
+  <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Gursimarpreet Singh</h1>
